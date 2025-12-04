@@ -48,7 +48,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
- 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aeomie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -66,6 +65,18 @@ Lambda calculus interpreter and type system implementation - exploring functiona
 
 ### 🎮 [Game Dev Project - JavaFX](https://github.com/Aeomie/Projet-CPS)
 Custom game engine built from scratch with JavaFX featuring animation system, collision detection, and AI pathfinding algorithms.
+
+---
+
+## 🤝 Other Contributions
+
+Projects I've contributed to:
+
+### 🗺️ [Centrality Measures in Spatial Networks](https://github.com/Rom1h/Centrality-measures-in-spatial-networks-of-urban-streets)
+Analysis of centrality measures in urban street networks - exploring graph theory applications in spatial data and urban planning.
+
+### 📚 [Rota Lexicographique](https://github.com/JulienArlais/Rota-lexicographique)
+Implementation of 12 rules of rota lexicographically ordered - combinatorial algorithms and mathematical structures.
 
 ---
 

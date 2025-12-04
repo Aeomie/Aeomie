@@ -49,14 +49,14 @@
 
 ## 🏆 Featured Projects
 
-### 🔧 [APS-Evaluator-Compiler](https://github.com/Aeomie/APS-Evaluator-Compiler)
-An evaluator and compiler project built in OCaml - exploring language design and implementation.
+### 🔍 [Search Engine SpringBoot](https://github.com/Aeomie/WebApp---Search-Engine---DAAR-Projet-3)
+Full-stack web application implementing a search engine using SpringBoot with advanced indexing and query processing.
 
-### 💻 [PSCR-TME](https://github.com/Aeomie/PSCR-TME)
-Concurrent and real-time systems programming coursework exploring advanced system concepts.
+### 🧮 [Tas-LambdaCalcul](https://github.com/Aeomie/Tas-LambdaCalcul)
+Lambda calculus interpreter and type system implementation - exploring functional programming theory and computation.
 
-### ☕ [CPA Projects](https://github.com/Aeomie/CPATME4)
-Design patterns and advanced programming concepts implemented in Java.
+### 🎮 [Game Dev Project - JavaFX](https://github.com/Aeomie/Projet-CPS)
+Custom game engine built from scratch with JavaFX featuring animation system, collision detection, and AI pathfinding algorithms.
 
 ---
 
